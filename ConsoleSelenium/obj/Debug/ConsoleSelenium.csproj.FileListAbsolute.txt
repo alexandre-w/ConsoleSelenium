@@ -1,0 +1,56 @@
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\ConsoleSelenium.exe.config
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\ConsoleSelenium.exe
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\ConsoleSelenium.pdb
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\ThoughtWorks.Selenium.Core.dll
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\WebDriver.dll
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\WebDriver.Support.dll
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\ThoughtWorks.Selenium.Core.xml
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\WebDriver.pdb
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\WebDriver.xml
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\WebDriver.Support.pdb
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\WebDriver.Support.xml
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\obj\Debug\ConsoleSelenium.csprojResolveAssemblyReference.cache
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\obj\Debug\ConsoleSelenium.exe
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\obj\Debug\ConsoleSelenium.pdb
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\MigraDoc.DocumentObjectModel.dll
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\MigraDoc.Rendering.dll
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\MigraDoc.RtfRendering.dll
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\PdfSharp.Charting.dll
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\PdfSharp.dll
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\de\MigraDoc.Rendering.resources.dll
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\de\PdfSharp.resources.dll
+c:\users\wetta\documents\visual studio 2015\Projects\ConsoleSelenium\ConsoleSelenium\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\ConsoleSelenium.exe.config
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\obj\Debug\ConsoleSelenium.exe
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\obj\Debug\ConsoleSelenium.pdb
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\ConsoleSelenium.exe
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\ConsoleSelenium.pdb
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\PdfSharp.dll
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\WebDriver.dll
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\WebDriver.Support.dll
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\WebDriver.pdb
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\WebDriver.xml
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\WebDriver.Support.pdb
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\WebDriver.Support.xml
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Alex\Documents\GitHub\ConsoleSelenium\ConsoleSelenium\obj\Debug\ConsoleSelenium.csprojResolveAssemblyReference.cache

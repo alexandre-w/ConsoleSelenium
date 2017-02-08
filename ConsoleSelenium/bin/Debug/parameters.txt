@@ -1,0 +1,4 @@
+login;loginTest
+pass;passwordtest
+url;http://urlsomthing
+search;searchsomething
